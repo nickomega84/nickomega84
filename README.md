@@ -1,16 +1,25 @@
-## Hi there 👋
+# [ system protocol initiated ]
+## CONNECTING TO THE WIRED... 
 
-<!--
-**nickomega84/nickomega84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "No matter where you are, everyone is always connected."
 
-Here are some ideas to get you started:
+### 👤 identity_log: Kae
+_Software Engineer @ 42 Network | Navigating the backend and AI automation_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Kae. I am translating low-level system architecture (C/C++) into scalable, modern web nodes. I thrive on algorithmic challenges, designing robust database schemas, and leveraging AI to automate the network.
+
+#### 🌐 current_connections:
+- 👁️‍🗨️ **Constructing:** **ft_transcendence** — a full-stack real-time multiplayer node. Handling the core backend architecture, **PostgreSQL** schema design, and the Sudoku logic matrix. 
+- 🔌 **Mastering:** The modern web protocols — **Ruby on Rails**, **React**, and **Node.js/Express**.
+- ⚙️ **Automating:** Integrating AI entities (n8n, MCPs) to optimize complex workflows.
+
+#### 🛠️ system_specs:
+- **Core:** Ruby on Rails, Node.js, Express, C, C++
+- **Interface:** JavaScript (ES6+), React, HTML/CSS
+- **Databases & Architecture:** PostgreSQL, SQL, Docker, Linux, Git
+- **Automation:** n8n, Model Context Protocol (MCP)
+
+#### 🌌 beyond_the_screen:
+When I disconnect from the IDE, I'm usually immersing myself in Japanese language studies, wandering through JRPG worlds, or refining hack & slash combat loops. Preparing to shift my physical node to a remote environment. 🗾
+
+_// End of transmission._
