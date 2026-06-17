@@ -1,7 +1,7 @@
 # [ system protocol initiated ]
 ## CONNECTING TO THE WIRED... 
 
-<img align="right" src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRhbGRveTNlbDd3NnF0NDA2emhmcjdrNjJ3d3Z6MW5neGg5bTBoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4PxGqiw9d6Y91DVzp0/giphy.gif)" width="220" alt="Kae System Node" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRhbGRveTNlbDd3NnF0NDA2emhmcjdrNjJ3d3Z6MW5neGg5bTBoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4PxGqiw9d6Y91DVzp0/giphy.gif" width="220" alt="Kae System Node" />
 
 > "No matter where you are, everyone is always connected."
 
