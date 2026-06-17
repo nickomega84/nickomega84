@@ -1,9 +1,14 @@
 # [ system protocol initiated ]
 ## CONNECTING TO THE WIRED... 
 
-<img align="right" src="https://64.media.tumblr.com/b74194bce83a07cde004d433362df06c/tumblr_n1tdxfPpvy1skw6elo1_400.gif" width="220" alt="Kae System Node" />
-
 > "No matter where you are, everyone is always connected."
+
+<br>
+
+<a href="#">
+<img align="right" src="https://64.media.tumblr.com/b74194bce83a07cde004d433362df06c/tumblr_n1tdxfPpvy1skw6elo1_400.gif" width="220" alt="Kae System Node" />
+</a>
+
 
 ### 👤 identity_log: Kae
 _Software Engineer @ 42 Network | Navigating the backend and AI automation_
