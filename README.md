@@ -6,7 +6,7 @@
 <br>
 
 <a href="#">
-<img align="right" src="https://64.media.tumblr.com/b74194bce83a07cde004d433362df06c/tumblr_n1tdxfPpvy1skw6elo1_400.gif" width="220" alt="Kae System Node" />
+<img align="center" src="https://64.media.tumblr.com/b74194bce83a07cde004d433362df06c/tumblr_n1tdxfPpvy1skw6elo1_400.gif" width="300" alt="Kae System Node" />
 </a>
 
 
